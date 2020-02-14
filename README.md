@@ -13,3 +13,7 @@ This is the neural network model that is built.
 2. use_cifar.py- It is the file that uses the stored neural network structure and weights to predict.
 <br/>
 ![Test image](https://github.com/sidvsukhi/Image-Recognition-CIFAR-10/blob/master/frog.jpg)
+<br/>
+3. model_structure.json- It is the stored json file with the trained neural network structure
+<br/>
+4. model_weights.h5- It has the stored weights of the model.
