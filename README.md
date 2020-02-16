@@ -1,7 +1,4 @@
 # Image-Recognition-CIFAR-10
-<br/>
-[Medium article](https://medium.com/@siddhantsukhatankar/hello-world-in-image-recognition-136eba581464)
-<br/>
 Image Recognition using CIFAR-10 dataset
 <br/>
 ![Dataset CIFAR](https://github.com/sidvsukhi/Image-Recognition-CIFAR-10/blob/master/dataset.png)
@@ -20,3 +17,7 @@ This is the neural network model that is built.
 3. model_structure.json- It is the stored json file with the trained neural network structure
 <br/>
 4. model_weights.h5- It has the stored weights of the model.
+
+<br/>
+[Medium article](https://medium.com/@siddhantsukhatankar/hello-world-in-image-recognition-136eba581464)
+<br/>
