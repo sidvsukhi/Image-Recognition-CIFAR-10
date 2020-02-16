@@ -1,4 +1,7 @@
 # Image-Recognition-CIFAR-10
+<br/>
+[Medium article](https://medium.com/@siddhantsukhatankar/hello-world-in-image-recognition-136eba581464)
+<br/>
 Image Recognition using CIFAR-10 dataset
 <br/>
 ![Dataset CIFAR](https://github.com/sidvsukhi/Image-Recognition-CIFAR-10/blob/master/dataset.png)
